@@ -32,7 +32,7 @@ Calorie_per_100gram = {
     10:0   # sendok
 }
 
-# Endpoint predict (sementara masih dummy)
+# Endpoint predict ()
 @app.post("/predict")
 def predict(data: PredictionRequest):
     

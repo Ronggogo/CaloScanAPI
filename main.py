@@ -19,15 +19,15 @@ class PredictionRequest(BaseModel):
     ratio: float
 
 Calorie_per_100gram = {
-    0: 167,  # AyamBakar
-    1: 260,  # AyamBumbu
-    2: 410,  # Dendeng
-    3: 105,  # LeleGoreng
-    4: 129,  # Nasi
-    5: 128,  # NilaGoreng
-    6: 271,  # TahuGoreng
-    7: 154,  # TelurRebus
-    8: 225,  # TempeGoreng
+    0: 264,  # AyamBakar
+    1: 283,  # AyamBumbu
+    2: 301,  # Dendeng
+    3: 204,  # LeleGoreng
+    4: 180,  # Nasi
+    5: 416,  # NilaGoreng
+    6: 115,  # TahuGoreng
+    7: 173,  # TelurRebus
+    8: 336,  # TempeGoreng
     9: 0,  # piring
     10:0   # sendok
 }
